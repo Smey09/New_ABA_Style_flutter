@@ -1,16 +1,4 @@
 # aba_clone_2024
 
-A new Flutter project.
+<img width="471" alt="Screenshot 2024-02-07 at 9 36 03 at night" src="https://github.com/Smey09/New_ABA_Style_flutter/assets/149933218/7dccb745-334b-41c7-bfb0-c8f6c17837d1">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
